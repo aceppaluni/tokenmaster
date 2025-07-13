@@ -31,3 +31,13 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`
+
+## Demo Video
+https://www.loom.com/share/1d94ffe7855248d3a87b3171201a7f0c
+
+<img width="964" height="456" alt="2025-07-11" src="https://github.com/user-attachments/assets/03962ab4-1565-4443-8dce-a0645296afcf" />
+
+<img width="954" height="467" alt="2025-07-13 (3)" src="https://github.com/user-attachments/assets/11011500-6395-40dd-9b46-4ce84667c5a2" />
+
+<img width="962" height="467" alt="2025-07-13 (4)" src="https://github.com/user-attachments/assets/83a82394-15d5-4a99-8a4d-ea95c6a27e4a" />
+
